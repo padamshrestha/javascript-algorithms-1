@@ -24,22 +24,22 @@ the data.
 `B` - Beginner, `A` - Advanced
 
 * `B` [Linked List](src/data-structures/linked-list/README.md)
-* `B` [Doubly Linked List](src/data-structures/doubly-linked-list)
-* `B` [Queue](src/data-structures/queue)
-* `B` [Stack](src/data-structures/stack)
-* `B` [Hash Table](src/data-structures/hash-table)
-* `B` [Heap](src/data-structures/heap)
-* `B` [Priority Queue](src/data-structures/priority-queue)
-* `A` [Trie](src/data-structures/trie)
-* `A` [Tree](src/data-structures/tree)
-    * `A` [Binary Search Tree](src/data-structures/tree/binary-search-tree)
-    * `A` [AVL Tree](src/data-structures/tree/avl-tree)
-    * `A` [Red-Black Tree](src/data-structures/tree/red-black-tree)
-    * `A` [Segment Tree](src/data-structures/tree/segment-tree) - with min/max/sum range queries examples
-    * `A` [Fenwick Tree](src/data-structures/tree/fenwick-tree) (Binary Indexed Tree)
-* `A` [Graph](src/data-structures/graph) (both directed and undirected)
-* `A` [Disjoint Set](src/data-structures/disjoint-set)
-* `A` [Bloom Filter](src/data-structures/bloom-filter)
+* `B` [Doubly Linked List](src/data-structures/doubly-linked-list/README.md)
+* `B` [Queue](src/data-structures/queue/README.md)
+* `B` [Stack](src/data-structures/stack/README.md)
+* `B` [Hash Table](src/data-structures/hash-table/README.md)
+* `B` [Heap](src/data-structures/heap/README.md)
+* `B` [Priority Queue](src/data-structures/priority-queue/README.md)
+* `A` [Trie](src/data-structures/trie/README.md)
+* `A` [Tree](src/data-structures/tree/README.md)
+    * `A` [Binary Search Tree](src/data-structures/tree/binary-search-tree/README.md)
+    * `A` [AVL Tree](src/data-structures/tree/avl-tree/README.md)
+    * `A` [Red-Black Tree](src/data-structures/tree/red-black-tree/README.md)
+    * `A` [Segment Tree](src/data-structures/tree/segment-tree/README.md) - with min/max/sum range queries examples
+    * `A` [Fenwick Tree](src/data-structures/tree/fenwick-tree/README.md) (Binary Indexed Tree)
+* `A` [Graph](src/data-structures/graph/README.md) (both directed and undirected)
+* `A` [Disjoint Set](src/data-structures/disjoint-set/README.md)
+* `A` [Bloom Filter](src/data-structures/bloom-filter/README.md)
 
 ## Algorithms
 
