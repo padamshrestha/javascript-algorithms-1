@@ -23,7 +23,7 @@ the data.
 
 `B` - Beginner, `A` - Advanced
 
-* `B` [Linked List](/src/data-structures/linked-list/README.md)
+* `B` [Linked List](src/data-structures/linked-list/README.md)
 * `B` [Doubly Linked List](src/data-structures/doubly-linked-list/README.md)
 * `B` [Queue](src/data-structures/queue/README.md)
 * `B` [Stack](src/data-structures/stack/README.md)
