@@ -19,9 +19,9 @@ interpolation search is likely to start search toward the end side.
 To find the position to be searched, it uses following formula:
 
 ```
-// The idea of formula is to return higher value of pos
-// when element to be searched is closer to arr[hi]. And
-// smaller value when closer to arr[lo]
+The idea of formula is to return higher value of pos
+when element to be searched is closer to arr[hi]. And
+smaller value when closer to arr[lo]
 pos = lo + ((x - arr[lo]) * (hi - lo) / (arr[hi] - arr[Lo]))
 
 arr[] - Array where elements need to be searched
